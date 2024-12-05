@@ -13,6 +13,6 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-   <Label prefHeight="54.0" prefWidth="293.0" text=" Hala Saluty" />
+   <Label prefHeight="54.0" prefWidth="293.0" text=" Hala Saluty!" />
 
 </VBox>
